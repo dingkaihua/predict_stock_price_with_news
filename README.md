@@ -2,7 +2,7 @@
 News headlines are often regarded as an indispensible part of stock price predictions. However, it's questionable whether this practice is effective. This repository seek anwsers to 2 questions
 
 
-* As Kanye West said:
+* By adding news in stock price prediction, will the prediction accuracy increase :
 
-> We're living the future so
-> the present is our past.
+- [X] We're living the future so
+- [] the present is our past.
