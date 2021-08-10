@@ -1,2 +1,8 @@
-# predict_stock_price_with_news
-News headlines are often regarded as an indispensible part of stock price predictions. However, it's questionable whether this practice is effective. 
+# Predict Stock Price with News. How Effective is News Headlines in Stock Price Predictions?
+News headlines are often regarded as an indispensible part of stock price predictions. However, it's questionable whether this practice is effective. This repository seek anwsers to 2 questions
+
+
+* As Kanye West said:
+
+> We're living the future so
+> the present is our past.
